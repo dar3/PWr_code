@@ -1,0 +1,2 @@
+Transakcja{numerTransakcji= 1 kwota= 450.0, karta= KartaStudenta Nazwisko: Nowak
+Transakcja{numerTransakcji= 4 kwota= 270.0, karta= KartaStudenta Nazwisko: Szytor

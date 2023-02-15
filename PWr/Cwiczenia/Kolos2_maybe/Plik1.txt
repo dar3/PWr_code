@@ -1,0 +1,3 @@
+monitor krzeslo myszka
+okno klawiatura 
+biurko stolek szafa stol zamach
